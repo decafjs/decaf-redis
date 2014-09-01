@@ -1,4 +1,2 @@
-decaf-redis
-===========
-
-Redis module for decafjs
+DecafJS Redis Module
+====================
